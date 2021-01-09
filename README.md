@@ -1,3 +1,3 @@
 # ids_project
 
-This was ML project related to our ids course.
+This was a Machine Learning project related to our Introduction to Data Science course.
